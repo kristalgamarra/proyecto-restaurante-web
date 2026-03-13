@@ -1,12 +1,19 @@
-# proyecto-restaurante-web
+# 🍽️ Restaurante La Criolla - Sitio Web
 
 ![Vista del proyecto](preview.png)
 
 ## 📌 Descripción
-Este proyecto consiste en el desarrollo de un sitio web para un restaurante criollo.  
-Permite a los usuarios navegar por diferentes secciones como el menú de platos, promociones y contacto.
 
-El objetivo del proyecto es aplicar conocimientos de desarrollo web utilizando tecnologías básicas.
+Este proyecto consiste en el desarrollo de un sitio web para un restaurante criollo llamado **La Criolla**.
+
+El sitio permite navegar entre diferentes secciones como:
+
+- Inicio
+- Pide aquí (menú de platos)
+- Promociones
+- Contacto
+
+El objetivo del proyecto es aplicar conocimientos básicos de desarrollo web utilizando HTML, CSS y JavaScript.
 
 ---
 
